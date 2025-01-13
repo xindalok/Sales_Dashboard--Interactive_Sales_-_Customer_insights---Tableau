@@ -11,7 +11,7 @@
 
 
 ## Introduction
-Provide interactive Tableau dashboards tailored to provide actionable insights for stakeholders, including sales managers and executives. <br> 
+Create 2 interactive Tableau dashboards tailored to provide actionable insights for stakeholders, including sales managers and executives. <br> 
 Focus on analyzing **sales performance** and **customer data** to support decision-making and improve business strategies.
 
 ## Project Objectives
