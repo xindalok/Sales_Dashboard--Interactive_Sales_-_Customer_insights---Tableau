@@ -5,6 +5,8 @@
   - [Dashboard video](#video-of-sales-dashboard)
 - [Customer Dashboard](#customer-dashboard)
   - [Dashboard video](#video-of-customer-dashboard)
+- [🌐 Interactive Dashboard 🌐](#dashboard-link)
+
 
 ## Introduction
 Provide interactive Tableau dashboards tailored to provide actionable insights for stakeholders, including sales managers and executives. <br> 
@@ -57,6 +59,10 @@ Details such as rank, number of orders, current sales, current profit, and last 
 https://github.com/user-attachments/assets/1e88ac35-4313-4e19-8536-9223de0e47d1
 
 ----------------------
-[Visit my Tableau Public dashboard]([https://public.tableau.com/views/Your-Dashboard-Name/Your-View-Name](https://public.tableau.com/views/SalesCustomerDashboard_17367929548860/CustomerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
-🌐 Interact with dashboard  🌐
+### Dashboard link
+
+
+[🌐 Interact with dashboard here 🌐](https://public.tableau.com/views/SalesCustomerDashboard_17367929548860/CustomerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
