@@ -11,6 +11,12 @@ Ensure ease of use and seamless access to critical information by incorporating 
 ---------------
 ---------------
 
+<video autoplay loop muted playsinline width="800">
+  <source src="assets/Sales%20dashboard.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Sales Dashboard
 
 ### Key Features
