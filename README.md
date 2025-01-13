@@ -1,4 +1,6 @@
 - [Project Overview](#introduction)
+- [Sales Dashboard](#sales-dashboard)
+  - [Dashboard video](#video-of-sales-dashboard)
 - [Customer Dashboard](#customer-dashboard)
 
 ## Introduction
