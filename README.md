@@ -12,6 +12,9 @@ Ensure ease of use and seamless access to critical information by incorporating 
 ---------------
 
 
+![Alt Text](dashboard_gif.gif)
+
+
 ## Sales Dashboard
 
 ### Key Features
