@@ -1,7 +1,10 @@
 - [Project Overview](#introduction)
+  - [Intro](#introduction)
+  - [Objectives](#project-objectives)
 - [Sales Dashboard](#sales-dashboard)
   - [Dashboard video](#video-of-sales-dashboard)
 - [Customer Dashboard](#customer-dashboard)
+  - [Dashboard video](#video-of-customer-dashboard)
 
 ## Introduction
 Provide interactive Tableau dashboards tailored to provide actionable insights for stakeholders, including sales managers and executives. <br> 
